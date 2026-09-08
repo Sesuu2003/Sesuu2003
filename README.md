@@ -3,7 +3,7 @@
 [![Protonmail](https://img.shields.io/badge/ProtonMail-%238B89CC.svg?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:u.cheveste+github@proton.me)
 ![Arch](https://img.shields.io/badge/archlinux-%231793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white)
 
-- 🔭 I’m currently working on UNO!PRAISE
+- 🔭 I’m currently working on [UNO! PRAISE](https://github.com/Sesuu2003/Uno-PRAISE)
 - 🌱 I’m currently learning Java
 
 
