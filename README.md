@@ -1,6 +1,7 @@
 ## Allons-y! 👋
+<img alt="GIF" src="https://i.pinimg.com/originals/22/23/2c/22232cafba6630181675658857e400f1.gif" />
 
-[![Protonmail](https://img.shields.io/badge/ProtonMail-%238B89CC.svg?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:u.cheveste+github@proton.me)
+[![Protonmail](https://img.shields.io/badge/ProtonMail-%238B89CC.svg?style=Flat-square&logo=protonmail&logoColor=white)](mailto:u.cheveste+github@proton.me)
 
 
 - 🔭 I’m currently working on [UNO! PRAISE](https://github.com/Sesuu2003/Uno-PRAISE)
