@@ -1,5 +1,5 @@
 ## Allons-y! 👋
-<img alt="GIF" src="https://i.pinimg.com/originals/22/23/2c/22232cafba6630181675658857e400f1.gif" />
+<img alt="GIF" src="https://i.imgur.com/DHJGvyY.gif" />
 
 [![Protonmail](https://img.shields.io/badge/ProtonMail-%238B89CC.svg?style=Flat-square&logo=protonmail&logoColor=white)](mailto:u.cheveste+github@proton.me)
 
